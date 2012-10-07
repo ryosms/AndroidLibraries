@@ -20,3 +20,7 @@ Simple ActionBar Library.
 
 ActionBar Library.
 
+###[ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+
+Paging indicator widgets that are compatible with the ViewPager.
+
