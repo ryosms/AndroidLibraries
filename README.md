@@ -16,3 +16,7 @@ $ repo sync
 Simple ActionBar Library.
 (forked from [tamacjp/ActionBarCompat](https://github.com/tamacjp/ActionBarCompat))
 
+###[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+
+ActionBar Library.
+
