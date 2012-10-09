@@ -24,3 +24,6 @@ ActionBar Library.
 
 Paging indicator widgets that are compatible with the ViewPager.
 
+###[facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)
+
+Facebook SDK for Android 

@@ -6,4 +6,5 @@
 	<project path="ActionBarCompat" name="ryosms/ActionBarCompat" revision="refs/heads/fragments" remote="github" />
 	<project path="ActionBarSherlock" name="JakeWharton/ActionBarSherlock" remote="github" />
 	<project path="ViewPagerIndicator" name="JakeWharton/Android-ViewPagerIndicator" remote="github" />
+	<project path="FacebookSdk" name="facebook/facebook-android-sdk" remote="github" />
 </manifest>
