@@ -7,4 +7,5 @@
 	<project path="ActionBarSherlock" name="JakeWharton/ActionBarSherlock" remote="github" />
 	<project path="ViewPagerIndicator" name="JakeWharton/Android-ViewPagerIndicator" remote="github" />
 	<project path="FacebookSdk" name="facebook/facebook-android-sdk" remote="github" />
+	<project path="AsyncHttp" name="loopj/android-async-http" remote="github" />
 </manifest>

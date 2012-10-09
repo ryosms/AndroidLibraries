@@ -41,3 +41,8 @@ Paging indicator widgets that are compatible with the ViewPager.
 ###[facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)
 
 Facebook SDK for Android 
+
+###[android-async-http](https://github.com/loopj/android-async-http)
+
+An Asynchronous HTTP Library for Android
+
