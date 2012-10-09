@@ -8,4 +8,5 @@
 	<project path="ViewPagerIndicator" name="JakeWharton/Android-ViewPagerIndicator" remote="github" />
 	<project path="FacebookSdk" name="facebook/facebook-android-sdk" remote="github" />
 	<project path="AsyncHttp" name="loopj/android-async-http" remote="github" />
+	<project path="SmartImageView" name="loopj/android-smart-image-view.git" remote="github" />
 </manifest>

@@ -46,3 +46,6 @@ Facebook SDK for Android
 
 An Asynchronous HTTP Library for Android
 
+###[android-smart-image-view](https://github.com/loopj/android-smart-image-view)
+
+Smart Image View for Android
