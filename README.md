@@ -2,7 +2,21 @@
 
 This Repository has manifest file of 'repo' that collects useful libraries for Android.
 
+*[Version Control with Repo and Git](http://source.android.com/source/version-control.html)
+
+*[Repo command reference](http://source.android.com/source/using-repo.html)
+
 ##Usage
+
+Install repo
+
+```
+$ mkdir ~/bin
+$ curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
+$ chmod a+x ~/bin/repo
+```
+
+Sync Project
 
 ```
 $ repo init -u git://github.com/ryosms/AndroidLibraries.git
