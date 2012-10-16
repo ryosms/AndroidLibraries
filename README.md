@@ -49,3 +49,7 @@ An Asynchronous HTTP Library for Android
 ###[android-smart-image-view](https://github.com/loopj/android-smart-image-view)
 
 Smart Image View for Android
+
+###[Twitter4J](https://github.com/yusuke/twitter4j/)
+
+twitter library
