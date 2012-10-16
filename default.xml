@@ -10,4 +10,5 @@
 	<project path="AsyncHttp" name="loopj/android-async-http" remote="github" />
 	<project path="SmartImageView" name="loopj/android-smart-image-view.git" remote="github" />
 	<project path="Twitter4J" name="yusuke/twitter4j" remote="github" />
+	<project path="AndEngine" name="nicolasgramlich/AndEngine" remote="github" />
 </manifest>

@@ -53,3 +53,7 @@ Smart Image View for Android
 ###[Twitter4J](https://github.com/yusuke/twitter4j/)
 
 twitter library
+
+###[AndEngine](https://github.com/nicolasgramlich/AndEngine)
+
+Game Engine for Android
